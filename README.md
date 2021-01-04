@@ -46,7 +46,7 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 
 #### Serverless
 
-![Serverless](https://blog.runcloud.io/wp-content/uploads/2019/07/serverlessComputingBanner-720x370.webp)
+![Serverless](https://blog.runcloud.io/wp-content/uploads/2019/07/serverlessComputingBanner-720x370.webp?style=flat-square&logo=sass&logoColor=ffffff)
 
 #### Database
 
