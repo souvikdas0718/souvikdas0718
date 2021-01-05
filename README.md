@@ -42,7 +42,6 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 #### Serverless
 
@@ -58,6 +57,7 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 #### Other
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+![Asana](https://img.shields.io/badge/-Asana-F95353?style=flat-square&logo=asana)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
