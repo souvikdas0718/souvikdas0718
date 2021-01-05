@@ -25,7 +25,7 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love coding...
-📧 Reach out to me on souvik.das@dal.ca
+- 📧 Reach out to me on souvik.das@dal.ca
 
 ### My Tech Stack
 
