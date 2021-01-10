@@ -15,7 +15,7 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 - 🌱 Have developed Learning Management system using Severless technologies and built a database management system using python.
 - 👯 I worked for Infosys for 3.5 years, where I worked on DevOps Platform with hands-on experience in supporting, automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.
 - 🤔 Skilled Full Stack Developer with hands-on experience on Javascript, HTML, CSS, jQuery, React Js, Node Js and MongoDB, AngularJs.
-- 🤔 Highly skilled in programming languages like Python, Javascript, Java, C++.
+- 🤔 Highly skilled in programming languages like Python, Javascript, Java.
 - 🤔 Experience in handling different databases, for example, SQL, MongoDB, Neo4J, PostgreSQL.
 - 🤔 Experience in Cloud Services provided by Amazon Web Services, Microsoft Azure, FCS Open Stack, Heroku.
 - 🤔 Experince of working with Atlassian ecosystem JIRA, Trello, and Asana.
