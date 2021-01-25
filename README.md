@@ -1,4 +1,5 @@
-### Hello 👋, I'm Souvik Das
+### Hello,
+I am Souvik Das.
 
 <a href="https://www.linkedin.com/in/souvik-das-04996ba6/" target="_blank">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
