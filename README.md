@@ -8,12 +8,13 @@ I am Souvik Das.
 <br />
 <br />
 
-Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **DevOps Engineer and a Full Stack Software Developer** 🚀. Currently, I'm looking for internship in Summer 2021 👨🏽‍💻.
+Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **Software Developer and DevOps Engineer** 🚀. Currently, I'm looking for full-time opportunities for Winter 2022 👨🏽‍💻.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying at Dalhousie University
 - 🌱 Have developed Learning Management system using Severless technologies and built a database management system using python.
+- 👯 Currently, I am working as a Big Data Developer Student at Blackberry.
 - 👯 I worked for Infosys for 3.5 years, where I worked on DevOps Platform with hands-on experience in supporting, automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.
 - 🤔 Skilled Full Stack Developer with hands-on experience on Javascript, HTML, CSS, jQuery, React Js, Node Js and MongoDB, AngularJs.
 - 🤔 Highly skilled in programming languages like Python, Javascript, Java.
@@ -26,7 +27,7 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love coding...
-- 📧 Reach out to me on souvik.das@dal.ca
+- 📧 Reach out to me on souvikdas@gmail.com
 
 ### My Tech Stack
 
