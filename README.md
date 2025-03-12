@@ -8,22 +8,26 @@ I am Souvik Das.
 <br />
 <br />
 
-Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **Software Developer and DevOps Engineer** 🚀. Currently, I'm looking for full-time opportunities for Winter 2022 👨🏽‍💻.
+Hi there, I'm **Souvik Das**, an experienced Senior Big Data Engineer with 6+ years in designing scalable, cloud‑native data solutions for global enter‑
+                              prises. I specialize in AWS, Snowflake, and data analytics tools, focusing on data governance, RBAC, data security, and
+                              data quality. Skilled in automating workflows, optimizing system performance, and driving innovation through best
+                              practices in platform engineering. Proficient team collaborator and leader with a proven track record in mentoring
+                              teams and improving operational efficiency.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying at Dalhousie University
+- 👨🏽‍💻 I’m currently working at Thomson Reuters as a Senior Big Data Engineer.
 - 🌱 Have developed Learning Management system using Severless technologies and built a database management system using python.
-- 👯 Currently, I am working as a Big Data Developer Student at Blackberry.
+- 👯 Previously, I worked as a Big Data Developer Student at Blackberry.
 - 👯 I worked for Infosys for 3.5 years, where I worked on DevOps Platform with hands-on experience in supporting, automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes.
 - 🤔 Skilled Full Stack Developer with hands-on experience on Javascript, HTML, CSS, jQuery, React Js, Node Js and MongoDB, AngularJs.
 - 🤔 Highly skilled in programming languages like Python, Javascript, Java.
 - 🤔 Experience in handling different databases, for example, SQL, MongoDB, Neo4J, PostgreSQL.
 - 🤔 Experience in Cloud Services provided by Amazon Web Services, Microsoft Azure, FCS Open Stack, Heroku.
-- 🤔 Experince of working with Atlassian ecosystem JIRA, Trello, and Asana.
+- 🤔 Experince of working with Atlassian ecosystem JIRA, Trello, and Asana, ServiceNow.
 - 🤔 Experience in distributed as well as centralized version control system using GIT/GitLab.
 - 🤔 Experience in using collaboration tools like Slack, Teams, Zoom, Skype.
-- 🤔 To get deeper understanding of software development, I am pursuing my masters, where I have worked on different projects learning different languages, explored different databases and cloud services: like Python, React, Mongodb, Neo4j, AWS Services and Google Cloud Services.
+- 🤔 To get deeper understanding of software development, I pursued my masters, where I have worked on different projects learning different languages, explored different databases and cloud services: like Python, React, Mongodb, Neo4j, AWS Services and Google Cloud Services.
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love coding...
@@ -36,6 +40,8 @@ Hi there, I'm **Souvik Das**, graduate student of **Master of Applied Computer S
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Heroku](http://img.shields.io/badge/-heroku-6762A6?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Amazon AWS](http://img.shields.io/badge/-Aamazon%20AWS-232F3E?style=flat-square&logo=amazon&logoColor=ffffff)
+![Snowflake](https://img.shields.io/badge/-Snowflake-2496ED?-square&logo=snowflake&logoColor=ffffff)
+![BigData](http://img.shields.io/badge/-BigData-232F3E?style=flat-square&logo=bigdata&logoColor=ffffff)
 
 #### Web
 
