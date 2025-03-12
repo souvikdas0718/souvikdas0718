@@ -8,11 +8,7 @@ I am Souvik Das.
 <br />
 <br />
 
-Hi there, I'm **Souvik Das**, an experienced Senior Big Data Engineer with 6+ years in designing scalable, cloud‑native data solutions for global enter‑
-                              prises. I specialize in AWS, Snowflake, and data analytics tools, focusing on data governance, RBAC, data security, and
-                              data quality. Skilled in automating workflows, optimizing system performance, and driving innovation through best
-                              practices in platform engineering. Proficient team collaborator and leader with a proven track record in mentoring
-                              teams and improving operational efficiency.
+Hi there, I'm **Souvik Das**, an experienced Senior Big Data Engineer with 6+ years in designing scalable, cloud‑native data solutions for global enterprises. I specialize in AWS, Snowflake, and data analytics tools, focusing on data governance, RBAC, security, and quality. Skilled in automating workflows, optimizing system performance, and driving innovation through best practices in platform engineering. Proficient team collaborator and leader with a proven track record in mentoring teams and improving operational efficiency.
 
 **Talking about Personal Stuffs:**
 
